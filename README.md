@@ -1,4 +1,4 @@
-# fingerprint
+# Fingerprint Authentication
 
 A new Flutter project.
 
